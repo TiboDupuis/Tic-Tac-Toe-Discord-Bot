@@ -44,7 +44,7 @@ To add the bot, your account needs "Manage Server" permissions.
 #### !o [INSERT NUMBER] --> When it is O's turn, this will insert an O in a tile of your choosing.
 #### !reset --> This will reset the game.
 
-##TIILEMAP:
+## TIILEMAP:
 ### [1, 2, 3]
 ### [4, 5, 6]
 ### [7, 8 ,9]
